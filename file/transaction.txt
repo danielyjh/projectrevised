@@ -1,0 +1,8 @@
+John,Oct,withdraw,50
+Alan,Oct,deposit,250
+John,Nov,withdraw,23.80
+John,Nov,deposit,100
+John,Dec,deposit,200
+Alan,Dec,withdraw,80
+John,Dec,deposit,30
+John,Dec,withdraw,20
